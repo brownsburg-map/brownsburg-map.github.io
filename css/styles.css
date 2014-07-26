@@ -59,7 +59,7 @@ a:hover {text-decoration:underline;}
 
 #logo {
 	font-family: 'Montserrat', serif;
-	font-size: 20px;
+	font-size: 26px;
 	bottom:40px;
 	height:auto;
 	left:40px;
@@ -70,7 +70,7 @@ a:hover {text-decoration:underline;}
 }
 
 .main-nav{
-	position:relative;
+	position:absolute;
 	bottom: 23px;
 	left:210px;
 	z-index:1001;
