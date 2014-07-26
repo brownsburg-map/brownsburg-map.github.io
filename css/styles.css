@@ -1,5 +1,5 @@
 /* Import Fonts */
-@import url(http://fonts.googleapis.com/css?family=Coustard|Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Syncopate|Open+Sans);
 
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -12,7 +12,7 @@ body {
 	background: #000;
 }
 h1, h2, h3, h4, h5, h6{
-	font-family: 'Coustard', serif;
+	font-family: 'Syncopate', serif;
 	color:#fff;
 	font-weight: normal;
 	letter-spacing: 1px;
@@ -57,7 +57,7 @@ a:hover {text-decoration:underline;}
 }
 
 #logo {
-	font-family: 'Coustard', serif;
+	font-family: 'Syncopate', serif;
 	font-size: 20px;
 	bottom:40px;
 	height:auto;
