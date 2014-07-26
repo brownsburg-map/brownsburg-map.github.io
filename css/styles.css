@@ -74,6 +74,7 @@ a:hover {text-decoration:underline;}
 	bottom: 23px;
 	left:210px;
 	z-index:1001;
+	float: right;
 }
 .main-nav ul li { 
 	list-style: none;
