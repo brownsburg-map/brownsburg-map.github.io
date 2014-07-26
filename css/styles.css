@@ -68,6 +68,9 @@ a:hover {text-decoration:underline;}
 	z-index:1000;
 	color: #fff;
 }
+#logo p {
+	line-height: 80%;
+}
 
 .main-nav{
 	position:absolute;
