@@ -70,11 +70,10 @@ a:hover {text-decoration:underline;}
 }
 
 .main-nav{
-	position:absolute;
+	position:relative;
 	bottom: 23px;
 	left:210px;
 	z-index:1001;
-	float: right;
 }
 .main-nav ul li { 
 	list-style: none;
